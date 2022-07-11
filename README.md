@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxime-devcod
 - 👀 I’m interested in computer science and new technologies
-- 🌱 I’m currently learning Android app development
+- 🌱 I’m currently learning Frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
